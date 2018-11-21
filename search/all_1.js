@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['a',['A',['../classTParticle.html#aa6a9dcfe7e91062db3bb16e441595042',1,'TParticle']]],
+  ['adi',['ADI',['../classInput.html#aa7c81d2fa825f9f7f5df367836b138be',1,'Input']]],
+  ['afr02mc2c',['AFR02MC2C',['../constants_8h.html#abf34971a36c998bd602d5c254dddbe6c',1,'constants.h']]],
+  ['alg',['alg',['../classDRAGON.html#a35d4b3ad04fec9627a187c61eb758801',1,'DRAGON']]],
+  ['all',['all',['../structUtility_1_1chi2__struct.html#a75e3fd21720cf30e6c13b94f8c0c9f5d',1,'Utility::chi2_struct']]],
+  ['alpha',['alpha',['../classInput.html#a71cefa95859835a6e001c56aea5db44b',1,'Input']]],
+  ['alphaf',['ALPHAf',['../constants_8h.html#a220cc3eb850b91af943ffb9ea40342ad',1,'constants.h']]],
+  ['anisotropic',['Anisotropic',['../constants_8h.html#a1af7f3d9f2dff8d85c271b9c6f814251a22690afbc2ee3a3ba2a141ab906f273c',1,'constants.h']]],
+  ['annihilation',['Annihilation',['../constants_8h.html#a19c52ade221dcda481e87fbb47f0f1d0acf0e9f602bfb36867ed98fc8057b3585',1,'constants.h']]],
+  ['antinue_2ec',['antinue.c',['../antinue_8c.html',1,'']]],
+  ['antinue_5fparam',['antinue_param',['../antinue_8c.html#a48e9a04f83d81e249c9f0a2a15a43c29',1,'antinue.c']]],
+  ['antinue_5fparam_5fdelta',['antinue_param_delta',['../antinue_8c.html#a93c67878fa6e3ccab74b70b374073b12',1,'antinue.c']]],
+  ['antinue_5fparam_5fdiff',['antinue_param_diff',['../antinue_8c.html#ac28d3bd9e8ec70b741c67e6716f7e34c',1,'antinue.c']]],
+  ['antinue_5fparam_5fnd',['antinue_param_nd',['../antinue_8c.html#a2eabdd5bade7c624b3e3d39f51508a27',1,'antinue.c']]],
+  ['antinue_5fparam_5fres',['antinue_param_res',['../antinue_8c.html#a13d3c559e0b7ae50a9e991db00b31399',1,'antinue.c']]],
+  ['antinumu_2ec',['antinumu.c',['../antinumu_8c.html',1,'']]],
+  ['antinumu_5fparam',['antinumu_param',['../antinumu_8c.html#a565fb32c1edac362287144c555a306ce',1,'antinumu.c']]],
+  ['antinumu_5fparam_5fdelta',['antinumu_param_delta',['../antinumu_8c.html#af0b380db088b78ccb20f79d3f89093d9',1,'antinumu.c']]],
+  ['antinumu_5fparam_5fdiff',['antinumu_param_diff',['../antinumu_8c.html#a1427c3defd12b4337993c1ad80340548',1,'antinumu.c']]],
+  ['antinumu_5fparam_5fnd',['antinumu_param_nd',['../antinumu_8c.html#a1445d69a16f13315173a2890f3444e62',1,'antinumu.c']]],
+  ['antinumu_5fparam_5fres',['antinumu_param_res',['../antinumu_8c.html#a0e6dad8c7e8a112973a7e9bd73118ad2',1,'antinumu.c']]],
+  ['antiproton_5fcs',['antiproton_cs',['../classInput.html#a445669e5860513616021c12dd896df64',1,'Input']]],
+  ['atic',['ATIC',['../structUtility_1_1chi2__struct.html#a5c48da0ae3c00b5916f41e350f44f873',1,'Utility::chi2_struct']]]
+];

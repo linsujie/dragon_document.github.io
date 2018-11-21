@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['scaling',['scaling',['../classInput.html#a994e292d63e6536c0a1d0924bb79914b',1,'Input']]],
+  ['set_5fprofile',['set_profile',['../classTDiffusionCoefficient.html#aab6c23afb35c71050ff10fb9a0ce9485',1,'TDiffusionCoefficient::set_profile()'],['../classInput.html#a5492803a78177f6ea034089ea9af3dda',1,'Input::set_profile()']]],
+  ['sigma_5fbc',['sigma_BC',['../structUtility_1_1data.html#a630cc03a76cad689e3b3dd9c0f240d25',1,'Utility::data']]],
+  ['sigma_5fbe',['sigma_Be',['../structUtility_1_1data__be.html#a410814daa428b584eab0335a529fc3c8',1,'Utility::data_be']]],
+  ['sigma_5fco',['sigma_CO',['../structUtility_1_1data.html#a6950fb0f0b000eed4488b56bb61ad9a8',1,'Utility::data']]],
+  ['sigma_5fno',['sigma_NO',['../structUtility_1_1data.html#a3abe85f7f59c6a010cf37f0e7f85f293',1,'Utility::data']]],
+  ['sigmat',['sigmaT',['../constants_8h.html#aff73439c77e2d92944f9b87cbd64ef3a',1,'constants.h']]],
+  ['sigmav',['sigmav',['../classInput.html#a11f7652c50bbdabb97c8823cded75b90',1,'Input']]],
+  ['snr_5fmodel',['SNR_model',['../classInput.html#ae8f3007f5703aef20afd076ca9ed49c9',1,'Input']]],
+  ['snr_5fmodel_5fextra',['SNR_model_Extra',['../classInput.html#ac168116555a4c5e379269e30356e2eef',1,'Input']]],
+  ['source',['source',['../classTSource.html#a194d45099e1045e27a297b6c326aee89',1,'TSource']]],
+  ['sp',['sp',['../classTReaccelerationCoefficient.html#aa93f589381d1b4751d86e98d8fb4c477',1,'TReaccelerationCoefficient::sp()'],['../classTParticle.html#a21da7fce09eebad27100a60b73e5f260',1,'TParticle::sp()']]],
+  ['sp_5fref_5frig',['sp_ref_rig',['../classInput.html#ab955cdfdc1c7e92c72c57fcb7f223678',1,'Input']]],
+  ['sp_5fref_5frig_5fel',['sp_ref_rig_el',['../classInput.html#a9895761fbe94ef0fd400dc47eee73350',1,'Input']]],
+  ['sp_5fref_5frig_5fel_5fextra',['sp_ref_rig_el_extra',['../classInput.html#a7a1f779fda760a172c037f26788df6c2',1,'Input']]],
+  ['sp_5fref_5frig_5fnorm',['sp_ref_rig_norm',['../classInput.html#a3d2e7e29e8eabefbd0002ce311bdbdf5',1,'Input']]],
+  ['spallationxsec',['spallationxsec',['../classInput.html#a3e0a6fc116274af5ddfa21366e830c4e',1,'Input']]],
+  ['spect_5fnorm',['spect_norm',['../classInput.html#a7949b2f5dff527f2815fbce125c39663',1,'Input']]],
+  ['spect_5fnorm_5fel',['spect_norm_el',['../classInput.html#af20e58852a98554f76a998bb4a984f2a',1,'Input']]],
+  ['spectrum',['spectrum',['../classTSpectrum.html#a450dce15ae3d013f2f57c0226fd8ba9d',1,'TSpectrum']]],
+  ['status',['status',['../classDRAGON.html#a98659eb843be51dc229fe1aa0bc464b3',1,'DRAGON']]]
+];

@@ -1,0 +1,12 @@
+\form#0:\[ \frac{\partial N^i}{\partial t} - {\nabla}\cdot \left( D\,{\nabla} -v_{c}\right)N^{i} + \frac{\partial}{\partial p} \left(\dot{p}-\frac{p}{3}{\nabla}\cdot{v}_{c}\right) N^i -\frac{\partial}{\partial p} p^2 D_{pp} \frac{\partial}{\partial p} \frac{N^i}{p^2} = Q^{i}(p,r,z) + \sum_{j>i}c\beta n_{\rm gas}(r,z) \sigma_{ji}N^{j} - c\beta n_{\rm gas}\sigma_{\rm in}(E_{k})N^{i} \]
+\form#1:$N^i(p,r,z)$
+\form#2:$i$
+\form#3:$p$
+\form#4:$\beta$
+\form#5:$c$
+\form#6:$\sigma_{in}$
+\form#7:$n_{\rm gas}$
+\form#8:$\sigma_{ij}$
+\form#9:$j$
+\form#10:$D$
+\form#11:$v_{c}$

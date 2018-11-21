@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['_5ffb',['_fB',['../classGalaxy.html#aadc8bc92713459a7447f675895eccfd1',1,'Galaxy']]],
+  ['_5ffcoordinates',['_fCoordinates',['../classTDiffusionCoefficient.html#ad0b7b95a5d1601c2c7aacfc00234b486',1,'TDiffusionCoefficient::_fCoordinates()'],['../classGalaxy.html#a86f60a8e6db96514683b014680636599',1,'Galaxy::_fCoordinates()']]],
+  ['_5ffdmsource',['_fDMSource',['../classGalaxy.html#a474664023b0c8ec554a430a685e02fb6',1,'Galaxy']]],
+  ['_5ffdperp',['_fDperp',['../classGalaxy.html#a69052715c19aeda2b1eab588e5d2aa2b',1,'Galaxy']]],
+  ['_5ffdperpel',['_fDperpEl',['../classGalaxy.html#a8f2f5501b2f034d9549354a35baabe90',1,'Galaxy']]],
+  ['_5ffdpp',['_fDpp',['../classGalaxy.html#ae74ed1c8b65eeb674eb0b6dca39ca114',1,'Galaxy']]],
+  ['_5ffdppel',['_fDppEl',['../classGalaxy.html#a163d6b6e6513584c56c125149bd355e7',1,'Galaxy']]],
+  ['_5ffgalaxy',['_fGalaxy',['../classTParticle.html#aecab2330dc764ab6b9acab689fc4e9f1',1,'TParticle']]],
+  ['_5ffgas',['_fGas',['../classGalaxy.html#a79c574a32dee806b608f1c81b19fb542',1,'Galaxy']]],
+  ['_5ffinxsec',['_fInXSec',['../classTParticle.html#a1dd5bcf7e25f0ca13d05051b7e2ce1d7',1,'TParticle']]],
+  ['_5ffisrf',['_fISRF',['../classGalaxy.html#a05f6e9339a80fca924217c72a8c0b4b3',1,'Galaxy']]],
+  ['_5ffsource',['_fSource',['../classGalaxy.html#a2e127ac042e112795c6502a6a9772bef',1,'Galaxy']]],
+  ['_5ffsourceabundances',['_fSourceAbundances',['../classGalaxy.html#a6c28c6c4dc4edee2a2e675effdabedfb',1,'Galaxy']]],
+  ['_5ffsourceextra',['_fSourceExtra',['../classGalaxy.html#a9245179cea9ec100bc2c20cd978e88a2',1,'Galaxy']]],
+  ['_5fftotalgas',['_fTotalGas',['../classGalaxy.html#a888a1c1c3cff4a5a891da14c4e03768d',1,'Galaxy']]],
+  ['_5ffvc',['_fVC',['../classGalaxy.html#af8a7eda3391b56df22c9e1d41cfcc74b',1,'Galaxy']]]
+];
